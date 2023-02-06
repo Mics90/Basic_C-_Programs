@@ -1,0 +1,7 @@
+D:\Users\Michinji\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Users\Michinji\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\Users\Michinji\source\repos\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\Users\Michinji\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+D:\Users\Michinji\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\Users\Michinji\source\repos\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Users\Michinji\source\repos\Assignment\Assignment\obj\Debug\Assignment.pdb
