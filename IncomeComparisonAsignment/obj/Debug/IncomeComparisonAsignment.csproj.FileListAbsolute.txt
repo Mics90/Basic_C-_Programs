@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\IncomeComparisonAsignment\bin\Debug\IncomeComparisonAsignment.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\IncomeComparisonAsignment\bin\Debug\IncomeComparisonAsignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\IncomeComparisonAsignment\bin\Debug\IncomeComparisonAsignment.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\IncomeComparisonAsignment\obj\Debug\IncomeComparisonAsignment.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\IncomeComparisonAsignment\obj\Debug\IncomeComparisonAsignment.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\IncomeComparisonAsignment\obj\Debug\IncomeComparisonAsignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\IncomeComparisonAsignment\obj\Debug\IncomeComparisonAsignment.pdb
