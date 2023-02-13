@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Boolean assignment\obj\Debug\Boolean assignment.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Boolean assignment\obj\Debug\Boolean assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Boolean assignment\bin\Debug\Boolean assignment.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Boolean assignment\bin\Debug\Boolean assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Boolean assignment\bin\Debug\Boolean assignment.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Boolean assignment\obj\Debug\Boolean assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Boolean assignment\obj\Debug\Boolean assignment.pdb
