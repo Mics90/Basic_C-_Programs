@@ -39,9 +39,12 @@ namespace MathOperationAssignmentSubmiussion
             Console.WriteLine("Please write another number"); //user input
 
             int number5 = Convert.ToInt32(Console.ReadLine()); //converts user input to int
-            int answer5 = number5 % 7; //ads 25 to usere input
+            int answer5 = number5 % 7; //divides usere input bby 7 and gives reminder
             Console.WriteLine("When deviding your nuber by 7 , the remainder is:  " + answer5); // outputs result
-            Console.ReadLine();
+            
+
+            Console.WriteLine("Thanks, Please press 'Enter' to exit!");
+            Console.Read();
 
 
 
