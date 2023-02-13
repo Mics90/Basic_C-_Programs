@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main()
         {
-            Console.WriteLine("The Tech Academy");
+            Console.WriteLine("Pitman Training");
             Console.WriteLine("Student Daily Report");
             Console.WriteLine(" ");
             Console.WriteLine("What course are you in?");
