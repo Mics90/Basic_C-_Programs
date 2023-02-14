@@ -27,12 +27,12 @@ namespace IncomeComparisonAsignment
             double person2hours = Convert.ToDouble(Console.ReadLine());//converts user input to double
 
             double weektotal = person1rate * person1hours; //calculates person 1 weekly wages
-            double annual = weektotal * 12; //calculates person 1 annual wages
+            double annual = weektotal * 52; //calculates person 1 annual wages
 
             Console.Write("\n Annual sallary of person 1: \n" + annual);
             double weektotal2 = person2rate * person2hours; // calculates person 2 weekly wages
 
-            double annual2 = weektotal2 * 12; // calculates person 2 annual wages
+            double annual2 = weektotal2 * 52; // calculates person 2 annual wages
             Console.Write("\n Annual sallary of person 2 \n " + annual2);
             Console.WriteLine("");
 
