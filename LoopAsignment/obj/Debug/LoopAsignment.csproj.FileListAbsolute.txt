@@ -1,0 +1,6 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\LoopAsignment\obj\Debug\LoopAsignment.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\LoopAsignment\bin\Debug\LoopAsignment.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\LoopAsignment\bin\Debug\LoopAsignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\LoopAsignment\bin\Debug\LoopAsignment.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\LoopAsignment\obj\Debug\LoopAsignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\LoopAsignment\obj\Debug\LoopAsignment.pdb
