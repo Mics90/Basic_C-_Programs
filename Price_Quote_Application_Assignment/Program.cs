@@ -37,7 +37,7 @@ namespace Price_Quote_Application_Assignment
             Console.WriteLine("");
             decimal quota = Convert.ToDecimal(((width * height * lenght) * weight) / 100);//multiplies the three dimensions together and multiply the product by the weight. Finally, divide the outcome by 100.
 
-            Console.WriteLine("Quota :" + quota + "£");// displays price quota
+            Console.WriteLine("Your estimated total for shipping this package is: " + quota + "£  Thank You!");// displays price quota
             Console.ReadLine();
         }
         
