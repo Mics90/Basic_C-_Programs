@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\String_Assignment\bin\Debug\String_Assignment.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\String_Assignment\bin\Debug\String_Assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\String_Assignment\bin\Debug\String_Assignment.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\String_Assignment\obj\Debug\String_Assignment.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\String_Assignment\obj\Debug\String_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\String_Assignment\obj\Debug\String_Assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\String_Assignment\obj\Debug\String_Assignment.pdb
