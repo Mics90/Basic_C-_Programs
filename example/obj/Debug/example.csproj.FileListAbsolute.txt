@@ -1,0 +1,2 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\example\obj\Debug\example.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\example\obj\Debug\example.csproj.CoreCompileInputs.cache
