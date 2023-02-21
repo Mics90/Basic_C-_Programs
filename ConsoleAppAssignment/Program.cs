@@ -117,6 +117,34 @@ namespace ConsoleAppAssignment
 
             }
             Console.ReadLine();
+            ///////////////////////////////////////PART 6////////////////////////////////////
+
+            List<string> animals33 = new List<string>() { "MONKEY", "TIGER", "ELEPHANT", "TIGER", "SNAKE", "LION" }; //string list
+            Console.WriteLine("Hi. Please enter your favourite animal name"); //text output to console
+            string animallist = Console.ReadLine(); //declares variable from user input
+            string animallist2 = animallist.ToUpper(); // capitalize user input to avoid capital leter errors
+
+
+
+            foreach (string animal11 in animals33)//loop to check strings in list
+            {
+                if (animal11 == animallist2) //if statement if input maches list 
+                {
+
+                    Console.WriteLine("Your animal is in the zoo. Crate nr: " + animals33.IndexOf(animal11)); //console output with index of list matching input
+
+                    
+                }
+                if (animal11 != animallist2)
+                {
+                    Console.WriteLine("Your favourite animal is not in crate nr:"  + animals33.IndexOf(animal11));
+
+                    
+
+                }
+
+            }
+            Console.ReadLine();
 
 
         }
