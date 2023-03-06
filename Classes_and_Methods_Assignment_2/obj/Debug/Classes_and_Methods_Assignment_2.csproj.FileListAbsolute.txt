@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_Methods_Assignment_2\bin\Debug\Classes_and_Methods_Assignment_2.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_Methods_Assignment_2\bin\Debug\Classes_and_Methods_Assignment_2.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_Methods_Assignment_2\bin\Debug\Classes_and_Methods_Assignment_2.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_Methods_Assignment_2\obj\Debug\Classes_and_Methods_Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_Methods_Assignment_2\obj\Debug\Classes_and_Methods_Assignment_2.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_Methods_Assignment_2\obj\Debug\Classes_and_Methods_Assignment_2.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_Methods_Assignment_2\obj\Debug\Classes_and_Methods_Assignment_2.csproj.AssemblyReference.cache
