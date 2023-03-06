@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_methods_3\bin\Debug\Classes_and_methods_3.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_methods_3\bin\Debug\Classes_and_methods_3.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_methods_3\bin\Debug\Classes_and_methods_3.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_methods_3\obj\Debug\Classes_and_methods_3.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_methods_3\obj\Debug\Classes_and_methods_3.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_methods_3\obj\Debug\Classes_and_methods_3.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Classes_and_methods_3\obj\Debug\Classes_and_methods_3.pdb
