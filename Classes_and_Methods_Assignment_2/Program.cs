@@ -13,27 +13,30 @@ namespace Classes_and_Methods_Assignment_2
         {
             
             {
-                
+                math mathOb = new math();
                 Console.WriteLine("Please enter first number!");
                 int a = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Please enter second number (optional)");
 
                 string b = Console.ReadLine();
-                if (b.Equals(string.Empty))
+                if (b == "")
                 {
-                    Console.WriteLine("Math result: " + a);
-                    Console.ReadLine();
+                    int c = mathOb.addition(a);
+                    Console.WriteLine("Result is : " + c);
+                    Console.Read();
                 }
                 else
                 {
-                    int c = math.addition(a, Convert.ToInt32(b));
+                    int c = mathOb.addition(a,Convert.ToInt32(b));
                     Console.WriteLine("Result is : " + c);
                     Console.Read();
                 }
 
+
                 
 
             }
+
            
         }
     }
