@@ -10,14 +10,15 @@ namespace Classes_and_methods_assignment_1
     {
         static void Main(string[] args)
         {
-            int a = Math.Integer(10, 6);
+            Math mathObject = new Math();
+            int a = mathObject.Integer(10, 6);
             Console.WriteLine("10 + 6 is : " + a);
 
-            decimal b = Math.Decimal(90, 22);
+            decimal b = mathObject.Decimal(90, 22);
             Console.WriteLine("90/20  division result is : " + b);
 
 
-            int c = Math.String("9999", "666");
+            int c = mathObject.String("9999", "666");
             Console.WriteLine("9999 - 666 result is : " + c);
             Console.Read();
         }
