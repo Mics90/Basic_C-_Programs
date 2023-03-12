@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Inheritance Assignment\bin\Debug\Inheritance Assignment.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Inheritance Assignment\obj\Debug\Inheritance Assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Inheritance Assignment\obj\Debug\Inheritance Assignment.pdb
