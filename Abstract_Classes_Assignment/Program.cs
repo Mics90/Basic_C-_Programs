@@ -12,6 +12,10 @@ namespace Abstract_Classes_Assignment
         {
             Employee Employee = new Employee { firstName = "Sample", lastName = "Student" };
             Employee.SayName();
+
+
+            Employee SampleEmployee = new Employee() { firstName = "Sample", lastName = "Student" };//Interface Assignment
+            SampleEmployee.Quit();
             Console.ReadLine();
 
         }
