@@ -7,15 +7,22 @@ using System.Threading.Tasks;
 namespace Operator_Overloading
 {
     public class Program : Employee
+
     {
+
         static void Main(string[] args)
         {
-            Employee employee = new Employee() { fName = "Dan", lName = "Gruu", ID = 1 };
-            Employee emloyee2 = new Employee() { fName = "Maria", lName = "Dinero", ID = 2 };
 
-            var EmployeeID = employee.ID == emloyee2.ID;
+            Employee employee = new Employee();
+            employee.ID = 2;
+            employee.fName = "Dan";
+            employee.lName = "Gruu";
 
-            if(EmployeeID == true)
+            Employee employee2 = new Employee();
+            employee2.ID = 1;
+            employee2.fName = "Maria";
+            employee2.lName = "Dinero";
+            if (Equals(employee.ID, employee2.ID))
             {
                 Console.WriteLine("Employee ID are equal!");
             }
@@ -27,3 +34,6 @@ namespace Operator_Overloading
         }
     }
 }
+        
+  
+
