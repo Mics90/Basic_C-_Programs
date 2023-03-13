@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Abstract_Classes_Assignment\obj\Debug\Abstract_Classes_Assignment.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Abstract_Classes_Assignment\obj\Debug\Abstract_Classes_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Abstract_Classes_Assignment\bin\Debug\Abstract_Classes_Assignment.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Abstract_Classes_Assignment\bin\Debug\Abstract_Classes_Assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Abstract_Classes_Assignment\bin\Debug\Abstract_Classes_Assignment.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Abstract_Classes_Assignment\obj\Debug\Abstract_Classes_Assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Abstract_Classes_Assignment\obj\Debug\Abstract_Classes_Assignment.pdb
