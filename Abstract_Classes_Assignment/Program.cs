@@ -14,7 +14,7 @@ namespace Abstract_Classes_Assignment
             Employee.SayName();
 
 
-            Employee SampleEmployee = new Employee() { firstName = "Sample", lastName = "Student" };//Interface Assignment
+            Employee SampleEmployee = new Employee() { firstName = "Sample", lastName = "Student" };//
             SampleEmployee.Quit();
             Console.ReadLine();
 
