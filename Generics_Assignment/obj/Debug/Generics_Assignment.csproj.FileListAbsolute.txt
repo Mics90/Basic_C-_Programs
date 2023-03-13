@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Generics_Assignment\bin\Debug\Generics_Assignment.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Generics_Assignment\bin\Debug\Generics_Assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Generics_Assignment\bin\Debug\Generics_Assignment.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Generics_Assignment\obj\Debug\Generics_Assignment.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Generics_Assignment\obj\Debug\Generics_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Generics_Assignment\obj\Debug\Generics_Assignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Generics_Assignment\obj\Debug\Generics_Assignment.pdb
