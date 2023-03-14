@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Card
+    public struct Card
     {
         
         public Suit Suit { get; set; } 
@@ -19,6 +19,8 @@ namespace TwentyOne
         Diamonds,
         Hearts,
         Spades
+
+
     }
     public enum Face
     {
