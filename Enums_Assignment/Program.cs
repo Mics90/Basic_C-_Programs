@@ -10,30 +10,38 @@ namespace Enums_Assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a day of the week");
-            string YourDay = Console.ReadLine();
-            string ActualDay = DateTime.Now.DayOfWeek.ToString();
             try
             {
-                if (YourDay == ActualDay)
+                Console.WriteLine("What is my favourite day?");
+                string Input = Console.ReadLine();
+                string Day = Convert.ToString(DaysOfTheWeek.Days.Friday);
+
+                
+
+                    if (Input == Day)
+                    {
+                        Console.WriteLine("You entered : " + Input);
+                    }
+                    else
                 {
-                    Console.WriteLine("Today is : " + YourDay);
+                    Console.WriteLine("Sorry, but " + Input + " is not my favourite day!");
+
                 }
-                {
-                    if (YourDay != ActualDay)
-                        throw new ArgumentNullException();
-                }
+                
             }
-            catch (Exception)
+
+
+            catch (Exception ex)
 
             {
-                Console.WriteLine("Please check your spelling!");
+                Console.WriteLine(ex.Message);
             }
 
             finally
             {
                 Console.ReadLine();
             }
+
         }
     }
 }

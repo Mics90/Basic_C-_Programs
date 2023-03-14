@@ -8,7 +8,16 @@ namespace Enums_Assignment
 {
     public class DaysOfTheWeek
     {
-        
+        public enum Days
+        {
+            Monday,
+            Tuesday,
+            Wednesday,
+            Thursday,
+            Friday,
+            Saturday,
+            Sunday
+        }
        
     }
 }
