@@ -14,13 +14,14 @@ namespace Enums_Assignment
             {
                 Console.WriteLine("What is my favourite day?");
                 string Input = Console.ReadLine();
-                string Day = Convert.ToString(DaysOfTheWeek.Days.Friday);
+                string Day = Convert.ToString(DaysOfTheWeek.Days.FRIDAY);
+                string Input2 = Input.ToUpper();
 
-                
 
-                    if (Input == Day)
+
+                    if (Input2 == Day)
                     {
-                        Console.WriteLine("You entered : " + Input);
+                        Console.WriteLine("You entered : " + Input + " and that is correct!");
                     }
                     else
                 {
