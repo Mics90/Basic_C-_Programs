@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Lambda_Expressions\bin\Debug\Lambda_Expressions.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Lambda_Expressions\bin\Debug\Lambda_Expressions.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Lambda_Expressions\bin\Debug\Lambda_Expressions.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Lambda_Expressions\obj\Debug\Lambda_Expressions.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Lambda_Expressions\obj\Debug\Lambda_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Lambda_Expressions\obj\Debug\Lambda_Expressions.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\Lambda_Expressions\obj\Debug\Lambda_Expressions.pdb
