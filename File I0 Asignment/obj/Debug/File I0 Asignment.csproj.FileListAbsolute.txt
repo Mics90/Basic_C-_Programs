@@ -1,0 +1,7 @@
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\File I0 Asignment\bin\Debug\File I0 Asignment.exe.config
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\File I0 Asignment\bin\Debug\File I0 Asignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\File I0 Asignment\bin\Debug\File I0 Asignment.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\File I0 Asignment\obj\Debug\File I0 Asignment.csproj.AssemblyReference.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\File I0 Asignment\obj\Debug\File I0 Asignment.csproj.CoreCompileInputs.cache
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\File I0 Asignment\obj\Debug\File I0 Asignment.exe
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\File I0 Asignment\obj\Debug\File I0 Asignment.pdb
