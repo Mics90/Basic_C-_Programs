@@ -21,6 +21,7 @@ namespace TwentyOne
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\logs\log.txt",true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);
