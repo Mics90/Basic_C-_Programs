@@ -13,9 +13,17 @@ namespace Additional_Features
             const string question = "Please give me a number: ";
             Console.WriteLine("{0}", question);
             int x = Convert.ToInt32(Console.ReadLine());
-            Sum s = new Sum();
-            var answer = s.getSum() + x;
-            Console.WriteLine(x +"+"+ s.getSum() + " equals: " + answer);
+
+
+
+            var answer = new Sum();
+
+
+
+
+            Console.WriteLine("We did some math with your number: " + x + " and result is: ");
+            Console.WriteLine(answer.x + answer.y + x );
+            
             Console.ReadLine();
         }
         

@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace Additional_Features
 {
-    class Sum
+   public class Sum  
     {
-        
-    private int x;
-        private int y;
-        public Sum()
+        public int x;
+        public int y;
+
+        public Sum(int x,int y) 
         {
-            x = 7;
-            y = 3;
+            this.x = 7;
+            this.y = 8;
         }
-        public int getSum()
+        public Sum() : this(6, 7)
         {
-            return x + y;
+            var answer = x + y;
         }
     }
 }
