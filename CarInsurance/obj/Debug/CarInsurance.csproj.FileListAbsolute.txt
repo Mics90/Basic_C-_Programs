@@ -80,3 +80,4 @@ C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\CarInsurance\o
 C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\CarInsurance\obj\Debug\CarInsurance.csproj.CopyComplete
 C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\CarInsurance\obj\Debug\CarInsurance.dll
 C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\CarInsurance\obj\Debug\CarInsurance.pdb
+C:\Users\Nauris\Desktop\Nauris_studijas\C_SHARP\Basic_C-_Programs\CarInsurance\obj\Debug\CarInsurance.csproj.AssemblyReference.cache
