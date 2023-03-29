@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "My website";
+}
+
+<div class="container-fluid text-center box-shadow col-6 bg-secondary border-dark border border-secondary mb-5">
+    <h1 class="display-4 font-weight-bolder">Hello!</h1>
+    <p class="bg-success no-gutters">Current time is : @DateTime.Now.ToString("h:mm:ss tt");</p>
+</div>
+
+<div class="accordion align-content-center bg-light border border-secondary">
+    <div class="card-header text-center font-weight-bold">Assignment tasks: </div>
+</div>
+<div class="card-body bg-dark text-white-50">
+    <p class="p-3 mb-2 bg-gradient-primary text-white"> 1. C# DateTime.Now property - Gets a DateTime object that is set to the current date and time on this computer, expressed as the local time. </p>
+    
+    <p class="p-3 mb-2 bg-gradient-secondary text-white">2. Event handler - An event handler, in C#, is a method that contains the code that gets executed in response to a specific event that occurs in an application.</p>
+    
+    <p class="p-3 mb-2 bg-gradient-info text-white">3. Handler methods in Razor Pages are methods that are automatically executed as a result of a request. The Razor Pages framework uses a naming convention to select the appropriate handler method to execute.</p>
+    
+    <p class="p-3 mb-2 bg-gradient-dark text-white">4. VOID - You use void as the return type of a method (or a local function) to specify that the method doesn't return a value</p>
+    
+    
+</div>
+
+
