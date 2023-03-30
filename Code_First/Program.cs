@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data.Entity;
 using System.Security.Cryptography.X509Certificates;
 
-namespace CodeFirstStudentApp
+namespace Code_First
 {
     internal class Program
     {
